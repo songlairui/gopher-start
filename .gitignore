@@ -1,0 +1,4 @@
+node_module
+.vs
+.vscode
+.cache
